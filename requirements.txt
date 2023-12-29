@@ -1,0 +1,9 @@
+numpy
+transformers==4.31.0
+torch==1.13.1
+sentencepiece
+tokenizers
+accelerate==0.21.0
+deepspeed==0.10.0
+streamlit==1.28.2
+datasets==2.14.3
