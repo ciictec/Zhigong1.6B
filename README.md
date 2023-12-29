@@ -8,7 +8,7 @@
 
 
 <p align="center">
-🤗 <a href="https://huggingface.co/ciictec" target="_blank">Hugging Face</a>
+  👨‍💻 <a href="https://github.com/ciictec/Zhigong1.6B" target="_blank">Github</a> • 🤗 <a href="https://huggingface.co/ciictec" target="_blank">Hugging Face</a>
 </p>
 
 
